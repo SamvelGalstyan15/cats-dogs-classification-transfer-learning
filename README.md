@@ -1,2 +1,8 @@
-# cats-dogs-classification-transfer-learning
-The model predicts cats and dogs using transfer learning. The MobileNetV2 model was used
+🏆 Cats vs Dogs Classification
+
+This project is a Convolutional Neural Network (CNN) designed to distinguish between cats and dogs from images. It uses Transfer Learning with the MobileNetV2 architecture for high efficiency and accuracy.
+
+🐕 Classification: The model can distinguish between two categories: Cats and Dogs.
+
+🛠️ Tech Stack: Language: Python 3.x Framework: TensorFlow / Keras Environment: Jupyter Notebook Libraries: NumPy, Pandas, Matplotlib
+
