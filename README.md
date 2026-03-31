@@ -6,3 +6,25 @@ This project is a Convolutional Neural Network (CNN) designed to distinguish bet
 
 🛠️ Tech Stack: Language: Python 3.x Framework: TensorFlow / Keras Environment: Jupyter Notebook Libraries: NumPy, Pandas, Matplotlib
 
+
+
+
+
+⚙️ Installation
+
+To set up the environment and install all dependencies, run the following commands:
+
+```bash
+ Create virtual environment
+   python -m venv venv
+
+ Activate virtual environment
+   On Windows:
+     venv\Scripts\activate
+   On macOS/Linux:
+     source venv/bin/activate
+
+ Install dependencies
+   pip install -r requirements.txt
+```
+    
